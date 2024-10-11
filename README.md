@@ -13,7 +13,5 @@
 
 #### Steps to Use:
 
----
-
 - Download or clone the repository
 

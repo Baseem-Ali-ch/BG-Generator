@@ -1,5 +1,5 @@
 <h1>BG Generator</h1>
-
+https://baseem-ali-ch.github.io/BG-Generator/
 
 ### Use of the Project:
 
